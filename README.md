@@ -49,7 +49,7 @@ We believe that as digital communities scale, communication shouldn't just get l
 
 
 
-## 🛠️ Installation & Setup
+## 🛠️ Installation & Setup (Coming soon...)
 
 
 
